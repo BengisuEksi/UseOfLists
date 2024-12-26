@@ -1,0 +1,10 @@
+C:\Users\bengi\Desktop\C# Projects\UseOfLists\UseOfLists\bin\Debug\UseOfLists.exe.config
+C:\Users\bengi\Desktop\C# Projects\UseOfLists\UseOfLists\bin\Debug\UseOfLists.exe
+C:\Users\bengi\Desktop\C# Projects\UseOfLists\UseOfLists\bin\Debug\UseOfLists.pdb
+C:\Users\bengi\Desktop\C# Projects\UseOfLists\UseOfLists\obj\Debug\UseOfLists.csproj.AssemblyReference.cache
+C:\Users\bengi\Desktop\C# Projects\UseOfLists\UseOfLists\obj\Debug\UseOfLists.Form1.resources
+C:\Users\bengi\Desktop\C# Projects\UseOfLists\UseOfLists\obj\Debug\UseOfLists.Properties.Resources.resources
+C:\Users\bengi\Desktop\C# Projects\UseOfLists\UseOfLists\obj\Debug\UseOfLists.csproj.GenerateResource.cache
+C:\Users\bengi\Desktop\C# Projects\UseOfLists\UseOfLists\obj\Debug\UseOfLists.csproj.CoreCompileInputs.cache
+C:\Users\bengi\Desktop\C# Projects\UseOfLists\UseOfLists\obj\Debug\UseOfLists.exe
+C:\Users\bengi\Desktop\C# Projects\UseOfLists\UseOfLists\obj\Debug\UseOfLists.pdb

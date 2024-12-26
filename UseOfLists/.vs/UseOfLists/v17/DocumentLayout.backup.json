@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bengi\\Desktop\\C# Projects\\UseOfLists\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF63610B-C820-41C5-A722-69B2C3EE0C92}|UseOfLists\\UseOfLists.csproj|c:\\users\\bengi\\desktop\\c# projects\\useoflists\\useoflists\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF63610B-C820-41C5-A722-69B2C3EE0C92}|UseOfLists\\UseOfLists.csproj|solutionrelative:useoflists\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF63610B-C820-41C5-A722-69B2C3EE0C92}|UseOfLists\\UseOfLists.csproj|c:\\users\\bengi\\desktop\\c# projects\\useoflists\\useoflists\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF63610B-C820-41C5-A722-69B2C3EE0C92}|UseOfLists\\UseOfLists.csproj|solutionrelative:useoflists\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF63610B-C820-41C5-A722-69B2C3EE0C92}|UseOfLists\\UseOfLists.csproj|c:\\users\\bengi\\desktop\\c# projects\\useoflists\\useoflists\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF63610B-C820-41C5-A722-69B2C3EE0C92}|UseOfLists\\UseOfLists.csproj|solutionrelative:useoflists\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF63610B-C820-41C5-A722-69B2C3EE0C92}|UseOfLists\\UseOfLists.csproj|c:\\users\\bengi\\desktop\\c# projects\\useoflists\\useoflists\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF63610B-C820-41C5-A722-69B2C3EE0C92}|UseOfLists\\UseOfLists.csproj|solutionrelative:useoflists\\people.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 277,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\UseOfLists\\UseOfLists\\Car.cs",
+              "RelativeDocumentMoniker": "UseOfLists\\Car.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\UseOfLists\\UseOfLists\\Car.cs",
+              "RelativeToolTip": "UseOfLists\\Car.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:56:01.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "People.cs",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\UseOfLists\\UseOfLists\\People.cs",
+              "RelativeDocumentMoniker": "UseOfLists\\People.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\UseOfLists\\UseOfLists\\People.cs",
+              "RelativeToolTip": "UseOfLists\\People.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwBwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:55:40.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\UseOfLists\\UseOfLists\\Form1.cs",
+              "RelativeDocumentMoniker": "UseOfLists\\Form1.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\UseOfLists\\UseOfLists\\Form1.cs",
+              "RelativeToolTip": "UseOfLists\\Form1.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAowHQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:55:01.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\bengi\\Desktop\\C# Projects\\UseOfLists\\UseOfLists\\Form1.cs",
+              "RelativeDocumentMoniker": "UseOfLists\\Form1.cs",
+              "ToolTip": "C:\\Users\\bengi\\Desktop\\C# Projects\\UseOfLists\\UseOfLists\\Form1.cs [Design]",
+              "RelativeToolTip": "UseOfLists\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T10:52:14.878Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 723,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
